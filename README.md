@@ -4,7 +4,6 @@ A data analysis project examining solar generation performance
 across two plants using real-world SCADA data. Built with Python, 
 Pandas, Scikit-Learn, and Seaborn.
 
-![Peak output by hour](peak_output_by_hour.png)
 
 ---
 
@@ -60,3 +59,5 @@ skills in the renewable energy sector. Dataset sourced from
 (https://www.kaggle.com/datasets/anikannal/solar-power-generation-data).
 
 <img width="1118" height="459" alt="Screenshot 2026-04-07 at 7 55 18 PM" src="https://github.com/user-attachments/assets/f29277bd-441f-42d6-95e7-35281b105e18" />
+
+*Average AC power output by hour of day across both plants*
